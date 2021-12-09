@@ -26,26 +26,30 @@ body {
 }
 
 header {
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family:'Times New Roman', Times, serif, Times, serif;
   text-align: center;
   padding: 20px;
   padding-top: 0px;
   color: hsl(0, 0%, 100%);
   font-variant: small-caps;
-;
+  font-style: oblique;
+
 }
 
 .card { 
-  background-color: hsl(0, 0%, 17%);
+  background-color: hsl(0, 6%, 28%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(0, 0%, 100%);
-  font-size: 18px;
+  font-size: 15px;
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
   text-align: center;
+  box-shadow: -1em 0 5em #b48484, 1em 0 5em olive;
+  font-variant: small-caps;
+  font-style: oblique;
 }
 
 .card-header::after {
@@ -54,7 +58,6 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
-  text-align: inherit;
 }
 
 .card-body {
@@ -88,11 +91,14 @@ header {
   color: hsl(0, 0%, 100%);
   display: inline-block;
   font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  font-variant: small-caps;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  font-style: oblique;
 }
 
 button[disabled] {
@@ -119,10 +125,11 @@ button[disabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+  border: 2px dashed #c2b500;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 @media (max-width: 690px) {
