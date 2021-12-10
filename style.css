@@ -16,7 +16,8 @@ body {
   background-color: #ffffff;
   background-image: url("assets/images/pexels-sum+it-2885578.jpg");
   background-size: 100%;
-  background-repeat: no-repeat;
+  background-repeat:repeat;
+  
 }
 
 .wrapper {
@@ -24,6 +25,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
+
 
 header {
   font-family:'Times New Roman', Times, serif, Times, serif;
@@ -51,6 +53,7 @@ header {
   font-variant: small-caps;
   font-style: oblique;
 }
+
 
 .card-header::after {
   content: " ";
@@ -81,6 +84,7 @@ header {
   display: block;
   clear: both;
 }
+
 
 .btn {
   border: none;
