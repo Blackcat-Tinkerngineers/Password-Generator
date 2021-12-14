@@ -48,10 +48,11 @@ header {
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
-  text-align: center;
   box-shadow: -1em 0 5em #b48484, 1em 0 5em olive;
   font-variant: small-caps;
   font-style: oblique;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -129,11 +130,13 @@ button[disabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c2b500;
+  border: 2px  #c2b500;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
   font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  font-variant: small-caps;
 }
 
 @media (max-width: 690px) {
