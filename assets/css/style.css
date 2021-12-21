@@ -4,56 +4,68 @@
   padding: 0;
 }
 
-body {
-  background-color: #ffffff;
-  background-image: url("assets/images/pexels-sum+it-2885578.jpg");
+html {
+  margin: 0px;
+  height: 100%;
+}
+
+body{
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  background-image: url("/assets/images/pexels-sum+it-2885578.jpg");
   background-size: 100%;
-  background-repeat:repeat;
-  
+  margin: 0 auto;
+  background-repeat: none;
+
 }
 
 
 header {
-  font-family:'Times New Roman', Times, serif, Times, serif;
+  font-family:'Times New Roman', Times, serif;
   text-align: center;
   padding: 40px;
-  margin: 20px;
-  color: hsl(0, 0%, 100%);
+  margin: 35px;
+  color: rgb(206, 204, 185);
   font-variant: small-caps;
   font-style: oblique;
 }
 
 .content { 
-  background-color: hsl(0, 6%, 28%);
-  border-radius: 5px;
-  border-width: 1px;
-  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 13%, 56%);
+  border-radius: 50px;
+  border-width: 10px;
   font-size: 30px;
   margin: 0 auto;
-  max-width: 800px;
-  box-shadow: -1em 0 5em #b48484, -1em 0 5em olive;
+  max-width: 500px;
+  box-shadow: -em 0 5em #b48484, -em 0 5em olive;
   font-variant: small-caps;
   font-style: oblique;
   font-family: 'Times New Roman', Times, serif;
   min-height: 200px;
-  text-align: center;
 }
 
+h2{
+  color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: -130px
+}
 
-.navbtn {
-  background-color:#b48484;
+.btn {
   border-radius: 25px;
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 67%, 90%);
   font-size: 22px;
   font-family: 'Times New Roman', Times, serif;
   font-variant: small-caps;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 45px;
   display: block;
   padding: 14px;
   cursor: pointer;
-  font-style: oblique;
 }
 
+button{
+  background-color: #e2adad;
+}
   
 
