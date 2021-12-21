@@ -2,30 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Password Generator</title>
     <link rel="stylesheet" href="style.css" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Password Generator</title>           
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>The Rouge Generator</h1>
-      </header>
-      <div class="card">
-        <div class="card-header">
-          <h2>Secure Your Password </h2>
-        </div>
-        <div class="card-body">
-          <textarea
-            readonly
-            id="password"
-            placeholder=""
-            aria-label="Generated Password"></textarea>
-        </div>
-        <div class="card-footer">
-          <button id="generate" class="btn">Click Me</button>
-        </div>
+
+<body>
+  <header>
+    <h1>The Rouge Generator</h1>
+  </header>
+
+  <div id="section"></div>
+          <div class="content">Secure Password Here</div>
+
+  <div id="footer" class="footer"></div>
+        <div class="nav">
+          
+          <button id="nav_button" onclick="btn()" class="navbtn">Click Me</button>
+
     <script src="script.js"></script>
   </body>
 </html>
