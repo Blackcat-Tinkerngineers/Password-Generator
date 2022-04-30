@@ -6,8 +6,9 @@
 ## Table of Contents
 
 * [Objective](#Objective)
-* [Built With](#Built-With)
-* [Getting-Started](#Getting-Started)
+* [Image-Demo](#Image-Demo)
+* [Built-With](#Built-With)
+* [Installation](#Installation)
 * [License](#License)
 * [Contact-information](#Contact-Information)
 
