@@ -12,10 +12,18 @@
 * [Contact-information](#Contact-Information)
 
 
-  ## Objective
+## Objective
   <p></p>
 
 Password generator app built with HTML/CSS and Javascript. 
+
+
+## Image Demo 
+
+<br>
+
+![image](https://user-images.githubusercontent.com/88634637/166089647-3d00b5ae-fadc-4baa-bfa9-12459e915a2b.png)
+
 
 
 <div align="center"></div>
