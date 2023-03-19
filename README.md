@@ -21,7 +21,7 @@ Password generator app built with HTML/CSS and Javascript.
 
 ## Image Demo 
 
-🧁<a href="https://blackcat-tinkerngineers.github.io/Password-generator">Live Project</a>
+🧁<a href="https://blackcat-tinkerngineers.github.io/Password-Generator/">Live Project</a>
 <br>
 </br>
 
