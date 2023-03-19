@@ -83,7 +83,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <!-- CONTACT -->
 ## Contact Information
 
-🐓<a href="https://twitter.com/chelbgonsalves">Twitter - @chelbgonsalves</a>
+<a href="https://twitter.com/chelbgonsalves"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20%40chelbgonsalves&style=social&url=https://twitter.com/chelbgonsalves">
 <br>
 </br>
 👩🏻‍💻<a href="https://www.linkedin.com/in/chelsiebgonsalves">Linkedin - @chelsiebgonsalves</a>
