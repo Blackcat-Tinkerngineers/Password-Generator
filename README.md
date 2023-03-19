@@ -81,13 +81,13 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <!-- CONTACT -->
 ## Contact Information
 
-🐓<a href="https://twitter.com/chelbgonsalves">@chelbgonsalves</a>
+🐓<a href="https://twitter.com/chelbgonsalves">Twitter - @chelbgonsalves</a>
 <br>
 </br>
-👩🏻‍💻<a href="https://www.linkedin.com/in/chelsiebgonsalves">https://www.linkedin.com/in/chelsiebgonsalves</a>
+👩🏻‍💻<a href="https://www.linkedin.com/in/chelsiebgonsalves">Linkedin - @chelsiebgonsalves</a>
 <br>
 </br>
-🧁<a href="https://blackcat-tinkerngineers.github.io/Password-generator">https://blackcat-tinkerngineers.github.io/Password-generator</a>
+🧁<a href="https://blackcat-tinkerngineers.github.io/Password-generator">Live Project</a>
 <br>
 </br>
 <p align="right">(<a href="#top">back to top</a>)</p>
